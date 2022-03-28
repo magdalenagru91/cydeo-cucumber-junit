@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: Etsy Search Functionality and Verification
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 4, Errors: 0, Skipped: 0, Time elapsed: 276.459 s <<< FAILURE! - in Etsy Search Functionality and Verification
+Etsy Search Functionality and Verification.Etsy Search Functionality Title Verification (without parameterization)  Time elapsed: 161.453 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<Wooden spoon[ | Etsy]> but was:<Wooden spoon[]>
+
+Etsy Search Functionality and Verification.Etsy Search Functionality Title Verification (with parameterization) #1  Time elapsed: 19.067 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<Candle[ | Etsy]> but was:<Candle[]>
+
+Etsy Search Functionality and Verification.Etsy Search Functionality Title Verification (with parameterization) #2  Time elapsed: 17.127 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<Gift[ | Etsy]> but was:<Gift[]>
+
+Etsy Search Functionality and Verification.Etsy Search Functionality Title Verification (with parameterization) #3  Time elapsed: 25.045 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<Tshirt[ | Etsy]> but was:<Tshirt[]>
+
